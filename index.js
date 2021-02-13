@@ -12,12 +12,12 @@ rpc.on("ready", () => {
         largeImageText: "Sub 2 UltraX",
         smallImageKey: "small",
         smallImageText: "Road to 200 subs",
-        buttons : [{label : "Subscribe" , url : "https://youtube.com/c/UltraX1"},{label : "Discord" , url : "https://discord.gg/z6bpqrKj"}]
+        buttons : [{label : "GitHub" , url : "https://github.com/Cd-corgi/"},{label : "YouTube" , url : "https://www.youtube.com/channel/UCnkviocxvPGS_80aNjJrCkQ"}]
     })
 
     console.log("successfully activated the RPC")
 })
 
 rpc.login({
-    clientId: '809721690225115187'
+    clientId: '808009574702776320'
 })
